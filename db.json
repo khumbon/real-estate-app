@@ -1,0 +1,70 @@
+{
+  "listings": [
+    {
+      "id": 1,
+      "guidePrice": 425000,
+      "numberOfBeds": 1,
+      "numberOfBaths": 1,
+      "numberOfReceps": 1,
+      "description": "1 bed flat for sale",
+      "address": "Mansford Street, London E3",
+      "location": [
+        {
+          "distance": 0.3,
+          "place": "Cambridge Heath",
+          "type": "rail"
+        },
+        {
+          "distance": 0.4,
+          "place": "Bethnal Heath",
+          "type": "underground"
+        }
+      ],
+      "pictures": [
+        {
+          "src": "https://lid.zoocdn.com/u/2400/1800/dce68602b49520479afe1e9ac8c5b085542676d5.jpg"
+        }
+      ],
+      "floorPlans": [],
+      "realtor": {
+        "name": "Purple Bricks",
+        "logo": "https://st.zoocdn.com/zoopla_static_agent_logo_(584439).png"
+      },
+      "listedOn": "12th May 2020",
+      "status": "active"
+    },
+    {
+      "id": 2,
+      "guidePrice": 425000,
+      "numberOfBeds": 1,
+      "numberOfBaths": 1,
+      "numberOfReceps": 1,
+      "description": "1 bed flat for sale",
+      "address": "Mansford Street, London E3",
+      "location": [
+        {
+          "distance": 0.3,
+          "place": "Cambridge Heath",
+          "type": "rail"
+        },
+        {
+          "distance": 0.4,
+          "place": "Bethnal Heath",
+          "type": "underground"
+        }
+      ],
+      "pictures": [
+        {
+          "src": "https://lid.zoocdn.com/u/2400/1800/dce68602b49520479afe1e9ac8c5b085542676d5.jpg"
+        }
+      ],
+      "floorPlans": [],
+      "realtor": {
+        "name": "Purple Bricks",
+        "logo": "https://st.zoocdn.com/zoopla_static_agent_logo_(584439).png"
+      },
+      "listedOn": "12th May 2020",
+      "status": "active"
+    }
+  ]
+}
